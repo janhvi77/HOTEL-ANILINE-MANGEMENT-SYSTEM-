@@ -75,3 +75,5 @@ Internally, it uses a rooms[] array to track room status (0 = available, 1 = boo
 📱 Develop a graphical user interface (GUI) using C++/Java or link to a mobile app.
 
 📊 Add room type analytics or occupancy rates.
+
+here you can watch demo videos https://drive.google.com/file/d/12FM43rhFpz_XuKWk7F7LadOHWSc_6D0t/view?usp=drivesdk
